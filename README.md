@@ -1,1 +1,1 @@
-# Read-EEG-signal-on-C-from-Arduino
+# Read-EEG-signal-on-C#-from-Arduino
